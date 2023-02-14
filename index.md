@@ -2,17 +2,27 @@
 
 ---
 
-### Category Name 1 
+### Land Surveying 
 
-[Project 1 Title](/sample_page)
+[Tillamook, Oregon, Preconstruction Record of Survey](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Bend, Oregon, River Canyon Estates No. 4 Subdivision](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Volcaloes National Park, Hawaii](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Federal Aviation Administation](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Salinas, California, Amtrak](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
