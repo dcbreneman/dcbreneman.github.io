@@ -5,7 +5,7 @@
 ### Land Surveying 
 
 [Volcaloes National Park, Hawaii](http://example.com/)
-<img src="images/havo.jpg?raw=true"/>
+<img src="images/IMG_20201118_083816392_HDR.jpg?raw=true"/>
 
 ---
 
