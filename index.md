@@ -9,12 +9,12 @@
 
 ---
 
-[Spirit Lake Tunnel Repair, Mt. St. Helens, Washington]([http://example.com/](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/Spirit.md)
+[Spirit Lake Tunnel Repair, Mt. St. Helens, Washington](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/Spirit.md)
 <img src="images/Spirit-Lake-Tunnel-Survey_2.jpg?raw=true"/>
 
 ---
 
-[Salinas, California, Amtrak]([http://example.com/](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/SalinasAmtrak.md)
+[Salinas, California, Amtrak](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/SalinasAmtrak.md)
 <img src="images/AmtrakSalinas.jpg?raw=true"/>
 
 ---
