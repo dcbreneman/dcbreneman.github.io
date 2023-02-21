@@ -4,20 +4,12 @@
 
 ### Land Surveying 
 
-[Tillamook, Oregon, Preconstruction Record of Survey](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Bend, Oregon, River Canyon Estates No. 4 Subdivision](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 [Volcaloes National Park, Hawaii](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-[Federal Aviation Administation](http://example.com/)
+[Spirit Lake Tunnel Repair, Mt. St. Helens, Washington](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
