@@ -5,12 +5,12 @@
 ### Land Surveying 
 
 [Volcaloes National Park, Hawaii](http://example.com/)
-<img src="images/IMG_20201118_083816392_HDR.jpg?raw=true"/>
+<img src="images/havo2.jpg?raw=true"/>
 
 ---
 
 [Spirit Lake Tunnel Repair, Mt. St. Helens, Washington](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Spirit-Lake-Tunnel-Survey_2.jpg?raw=true"/>
 
 ---
 
