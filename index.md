@@ -15,7 +15,7 @@
 ---
 
 [Salinas, California, Amtrak](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AmtrakSalinas.jpg?raw=true"/>
 
 ---
 
