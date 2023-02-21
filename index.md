@@ -4,7 +4,7 @@
 
 ### Land Surveying 
 
-[Volcaloes National Park, Hawaii](dcbreneman.github.io/Havo.md)
+[Volcaloes National Park, Hawaii](dcbreneman.github.io/Havo2.md)
 <img src="images/havo2.jpg?raw=true"/>
 
 ---
