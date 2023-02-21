@@ -6,3 +6,5 @@ ground control throughout the project limits.  I then incoperated GPS and terres
 contours, utilities, trees, structures, roads, and parking.  The topographic survey was supplemented with ground based lidar.
 
 ![Example of the 3D scanned data](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/images/HAVOvisit3D.JPG)
+
+![Civil3D CAD drawing](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/images/HavoCAD.JPG)
