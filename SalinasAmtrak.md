@@ -9,4 +9,4 @@ Oregon, Washington, California, Montana, and Idaho.
 ![Example of the 3D scanned data](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/images/Salinas3D.JPG)
 
 ### Drone imagery
-![Tunnel outfall](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/images/100_0074_0206.jpg)
+![Drone Imagery](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/images/100_0074_0206.JPG)
