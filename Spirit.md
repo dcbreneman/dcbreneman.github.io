@@ -10,4 +10,4 @@ using ground based lidar to record as-built data for the repaired tunnel.
 ![Example of the 3D scanned data](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/images/SpiritLake3D.JPG)
 
 ### Tunnel Outfall
-![Tunnel outfall](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/images/Spirit-Lake-Tunnel-Survey_1.JPG)
+![Tunnel outfall](https://github.com/dcbreneman/dcbreneman.github.io/blob/master/images/Spirit-Lake-Tunnel-Survey_1.jpg)
