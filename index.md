@@ -19,9 +19,9 @@
 
 ---
 
-### Category Name 2
+### University of Oklahoma Geospatial Technologies Master's Program Projects
 
-- [Project 1 Title](http://example.com/)
+- [Bringing Baseball to Portland, Site Suitability Study](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
