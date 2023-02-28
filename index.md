@@ -21,11 +21,7 @@
 
 ### University of Oklahoma Geospatial Technologies Master's Program Projects
 
-- [Bringing Baseball to Oregon, Site Suitability Study](https://storymaps.arcgis.com/stories/c0d83ebe863847b8b509a1877acd7920)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Bringing Baseball to Oregon, Site Suitability Study](https://storymaps.arcgis.com/stories/c0d83ebe863847b8b509a1877acd7920)<img src="images/Baseball_Oregon_Cover.jpg?raw=true"/>
 
 ---
 
