@@ -24,7 +24,7 @@
 - [Bringing Baseball to Oregon, Multiple-criteria Decision Analysis - ArcGIS StoryMap](https://storymaps.arcgis.com/stories/c0d83ebe863847b8b509a1877acd7920)<img src="images/Baseball_Oregon_Cover.jpg?raw=true"/>
 
 ---
-- [California Kincad Fire 2019 Before and After - Google Earth Engine](https://davidcbreneman-1.users.earthengine.app/view/kincade-fire-before-and-after))<img src="images/Baseball_Oregon_Cover.jpg?raw=true"/>
+- [California Kincad Fire 2019 Before and After - Split Panel - Google Earth Engine](https://davidcbreneman-1.users.earthengine.app/view/kincade-fire-before-and-after))<img src="images/GEE_spiltpanel.jpg?raw=true"/>
 )
 
 
